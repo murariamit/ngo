@@ -1,3 +1,7 @@
-theme: jekyll-theme-modernist
-github:
-  is_project_page: false
+title: All NGOs information in one single page
+description: >-
+  Single page which accumulates all latest information related to NGO from various legislation/Acts.
+url: https://murariamit.github.io/ngo-india
+theme: jekyll-theme-cayman
+kramdown:
+  parse_block_html: true
