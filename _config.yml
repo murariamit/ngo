@@ -1,7 +1,6 @@
 title: All NGOs information in one single page
 description: >-
-  Single page which accumulates all latest information from various Sections 
-  and Articles in one single place.
+  Single page which accumulates all latest information related to NGO from various legislation/Acts.
 url: https://murariamit.github.io/ngo-india
 theme: jekyll-theme-cayman
 kramdown:
