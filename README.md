@@ -16,6 +16,8 @@ Following are rules for ngo's in india.
 
 ## Section 2(15) Income Tax Act,1961.
 
+## Section 12(A) of Income Tax Act,1961.
+
 
 
 
