@@ -25,10 +25,9 @@ Following are rules for ngo's in india.
 
 3. A firm may be a member of the company registered under this section.
 
-4.
+4. (i) A company registered under this section shall not alter the provisions of its memorandum orarticles except with the previous approval of the Central Government. 
 
-    (i) A company registered under this section shall not alter the provisions of its memorandum orarticles except with the previous approval of the Central Government. 
-    (ii) A company registered under this section may convert itself into company of any other kind only after complying with such conditions as may be prescribed.
+   (ii) A company registered under this section may convert itself into company of any other kind only after complying with such conditions as may be prescribed.
     
 5. Where it is proved to the satisfaction of the Central Government that a limited company registered under this Act or under any previous company law has been formed with any of the objects specified in clause (a) of sub-section (1) and with the restrictions and prohibitions as mentioned respectively in clauses (b) and (c) of that sub-section, it may, by licence, allow the company to be registered under this section subject to such conditions as the Central Government deems fit and to change its name by omitting the word ―Limited‖, or as the case may be, the words ―Private Limited‖ from its name and thereupon the Registrar shall, on application, in the prescribed form, register such company under this section and all the provisions of this section shall apply to that company.
 
