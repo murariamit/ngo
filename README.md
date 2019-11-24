@@ -11,11 +11,12 @@ Following are rules for ngo's in india.
 
 ## Section 8 of Companies Act,2013.
 
- #### Where it is proved to the satisfaction of the Central Government that a person or an association of persons proposed to be registered under this Act as a limited company—
-##### (a) has in its objects the promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of environment or any such other object;
-##### (b) intends to apply its profits, if any, or other income in promoting its objects; and
-##### (c) intends to prohibit the payment of any dividend to its members,
-#### the Central Government may, by licence issued in such manner as may be prescribed, and on such conditions as it deems fit, allow that person or association of persons to be registered as a limited company under this section without the addition to its name of the word ―Limited‖, or as the case may be, the words ―Private Limited‖ , and thereupon the Registrar shall, on application, in the prescribed form, register such person or association of persons as a company under this section.
+1. Where it is proved to the satisfaction of the Central Government that a person or an association of persons proposed to be registered under this Act as a limited company—
+    * (a) has in its objects the promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of environment or any such other object;
+    * (b) intends to apply its profits, if any, or other income in promoting its objects; and
+    * (c) intends to prohibit the payment of any dividend to its members,
+    > the Central Government may, by licence issued in such manner as may be prescribed, and on such conditions as it deems fit, allow that person or association of persons to be registered as a limited company under this section without the addition to its name of the word ―Limited‖, or as the case may be, the words ―Private Limited‖ , and thereupon the Registrar shall, on application, in the prescribed form, register such person or association of persons as a company under this section.
+    
 #### (2) The company registered under this section shall enjoy all the privileges and be subject to all the obligations of limited companies.
 #### (3) A firm may be a member of the company registered under this section.
 ##### (4)(i) A company registered under this section shall not alter the provisions of its memorandum orarticles except with the previous approval of the Central Government.
@@ -48,6 +49,7 @@ Following are rules for ngo's in india.
  ##### (ii) the aggregate receipts from such activity or activities during the previous year, do not exceed twenty per cent of the total receipts, of the trust or institution undertaking such activity or activities, of that previous year;
  
 ## Section 12(A) of Income Tax Act,1961.
+
 
 ## Section 80(G) of Income Tax Act,1961.
 
