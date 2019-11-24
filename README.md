@@ -9,7 +9,7 @@ Following are rules for ngo's in india.
 * Section 12(A) of Income Tax Act,1961.
 * Section 80(G) of Income Tax Act,1961.
 
-## Section 8 of Companies Act,2013.
+## [Section 8 of Companies Act,2013](https://www.mca.gov.in/SearchableActs/Section8.htm).
 
 1. Where it is proved to the satisfaction of the Central Government that a person or an association of persons proposed to be registered under this Act as a limited company—
 
@@ -40,7 +40,7 @@ Following are rules for ngo's in india.
 #### (9) If on the winding up or dissolution of a company registered under this section, there remains, after the satisfaction of its debts and liabilities, any asset, they may be transferred to another company registered under this section and having similar objects, subject to such conditions as the Tribunal may impose, or may be sold and proceeds thereof credited to the Rehabilitation and Insolvency Fund formed under section 269.
 #### (10) A company registered under this section shall amalgamate only with another company registered under this section and having similar objects.
 #### (11) If a company makes any default in complying with any of the requirements laid down in this section, the company shall, without prejudice to any other action under the provisions of this section, be punishable with fine which shall not be less than ten lakh rupees but which may extend to one crore rupees and the directors and every officer of the company who is in default shall be punishable with imprisonment for a term which may extend to three years or with fine which shall not be less than twenty- five thousand rupees but which may extend to twenty-five lakh rupees, or with both:
-##### Provided that when it is proved that the affairs of the company were conducted fraudulently, every officer in default shall be liable for action under section 447.
+##### Provided that when it is proved that the affairs of the company were conducted fraudulently, every officer in default shall be liable for action under [section 447](http://ebook.mca.gov.in/Actpagedisplay.aspx?PAGENAME=17890).
 
 ## Section 20 of Society Regulation Act,1860.
 
@@ -64,3 +64,7 @@ Following are rules for ngo's in india.
 
 
 ---
+
+
+### Reference:
+* https://www.mca.gov.in/
