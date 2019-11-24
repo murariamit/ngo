@@ -11,7 +11,7 @@ Following are rules for ngo's in india.
 
 ## Section 8 of Companies Act,2013.
 
-1. Where it is proved to the satisfaction of the Central Government that a person or an association of persons proposed to be registered under this Act as a limited company—
+(1). Where it is proved to the satisfaction of the Central Government that a person or an association of persons proposed to be registered under this Act as a limited company—
 
     (a) has in its objects the promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of environment or any such other object;
     
@@ -21,11 +21,17 @@ Following are rules for ngo's in india.
     
     the Central Government may, by licence issued in such manner as may be prescribed, and on such conditions as it deems fit, allow that person or association of persons to be registered as a limited company under this section without the addition to its name of the word ―Limited‖, or as the case may be, the words ―Private Limited‖ , and thereupon the Registrar shall, on application, in the prescribed form, register such person or association of persons as a company under this section.
     
-#### (2) The company registered under this section shall enjoy all the privileges and be subject to all the obligations of limited companies.
-#### (3) A firm may be a member of the company registered under this section.
-##### (4)(i) A company registered under this section shall not alter the provisions of its memorandum orarticles except with the previous approval of the Central Government.
-##### (ii) A company registered under this section may convert itself into company of any other kind only after complying with such conditions as may be prescribed.
-#### (5) Where it is proved to the satisfaction of the Central Government that a limited company registered under this Act or under any previous company law has been formed with any of the objects specified in clause (a) of sub-section (1) and with the restrictions and prohibitions as mentioned respectively in clauses (b) and (c) of that sub-section, it may, by licence, allow the company to be registered under this section subject to such conditions as the Central Government deems fit and to change its name by omitting the word ―Limited‖, or as the case may be, the words ―Private Limited‖ from its name and thereupon the Registrar shall, on application, in the prescribed form, register such company under this section and all the provisions of this section shall apply to that company.
+(2) The company registered under this section shall enjoy all the privileges and be subject to all the obligations of limited companies.
+
+(3) A firm may be a member of the company registered under this section.
+
+(4)
+
+    (i) A company registered under this section shall not alter the provisions of its memorandum orarticles except with the previous approval of the Central Government.
+    
+    (ii) A company registered under this section may convert itself into company of any other kind only after complying with such conditions as may be prescribed.
+(5) Where it is proved to the satisfaction of the Central Government that a limited company registered under this Act or under any previous company law has been formed with any of the objects specified in clause (a) of sub-section (1) and with the restrictions and prohibitions as mentioned respectively in clauses (b) and (c) of that sub-section, it may, by licence, allow the company to be registered under this section subject to such conditions as the Central Government deems fit and to change its name by omitting the word ―Limited‖, or as the case may be, the words ―Private Limited‖ from its name and thereupon the Registrar shall, on application, in the prescribed form, register such company under this section and all the provisions of this section shall apply to that company.
+
 #### (6) The Central Government may, by order, revoke the licence granted to a company registered under this section if the company contravenes any of the requirements of this section or any of the conditions subject to which a licence is issued or the affairs of the company are conducted fraudulently or in a manner violative of the objects of the company or prejudicial to public interest, and without prejudice to any other action against the company under this Act, direct the company to convert its status and change its name to add the word ―Limited‖ or the words ―Private Limited‖, as the case may be, to its name and thereupon the Registrar shall, without prejudice to any action that may be taken under sub-section (7), on application, in the prescribed form, register the company accordingly:
 ##### Provided that no such order shall be made unless the company is given a reasonable opportunity of being heard:
 ##### Provided further that a copy of every such order shall be given to the Registrar.
