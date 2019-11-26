@@ -14,6 +14,7 @@ Following are rules for ngo's in india.
 #### NGO as a ‘Section-8 Company’:
 As per Section 8(1a, 1b, 1c) of the new Companies Act, 2013, a Section 8 company can be established for If the NGO is intended to be in the form of an organization ‘for promoting commerce, art, science, sports, education, research, social welfare, religion, charity, protection of the environment or any such other object. The NGO can be registered as a ‘Section-8 Company’. Thereafter, it has to function as a not-for-profit organization and thus, all profits generated during the course of its functioning have to be applied for promoting the objectives of the organization i.e. no dividend can be paid to the members of the company. 
 
+#### Registration of Ngo:
 To register as a Section-8 company, the provisions regarding incorporation of a company as contained in the Companies Act, 2013 would be applicable. Thus, Section-8 companies would be governed by the same act throughout the country. In this sense, they are very similar to other limited companies. Only few differences exist such as a section-8 company does not have to add the word ‘limited’ at the end, the income generated through its working cannot be paid as a dividend to the shareholders, it enjoys tax benefits which are enjoyed by the trusts etc. The incorporation and registration of the section-8 companies are also similar to that of normal companies.
 
 
