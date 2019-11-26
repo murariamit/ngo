@@ -25,14 +25,23 @@ To register as a Section-8 company, the provisions regarding incorporation of a 
  An NGO can be established as a society under the Societies Registration Act, 1860. Section 20 of the Act lays down certain areas of working in which an NGO can be formulated as a society.
 A Society can be formed for the promotion of literature, science or fine arts or the diffusion of useful knowledge or political education or for charitable purposes. As per Section 20 of the Societies Act, 1860, a Society can be registered for the following purposes:
 Grant of charitable assistance.
+
 Creation of Military Orphan funds.
+
 Promotion of Science.
+
 Promotion of Literature.
+
 Promotion of Fine Arts.
+
 Promotion or Instruction or Diffusion of useful Knowledge.
+
 Diffusion of Political Education.
+
 Foundation or maintenance of libraries or reading rooms.
+
 Foundation or maintenance of Public Museum or Galleries.
+
 In addition to the above purposes specified by the Societies Act, 1860, a Society can also be registered for other purposes based on the amendment that has been enacted to the Societies Act, 1860 by the concerned State Government.
 https://www.indiafilings.com/learn/uttarakhand-society-registration(Important) 
 
@@ -41,10 +50,12 @@ Society registration is managed by State Governments. Therefore, the application
 To register a Society, the founding members must first agree on a name for the Society and prepare the Memorandum and Rules and Regulations of the Society.
 
  ### Society Registration – Name Selection
+ 
 While choosing a name for the society, it is important to remember that as per Societies Act, 1860, similar or identical name of an existing registered society is not permitted. Further the proposed name for the society must also not suggest patronage of the Government of India or any State Government or attract the provisions of Emblem and Names Act, 1950.
 Memorandum of a Society
-The Memorandum of the Society and the Rules and Regulations of the Society must then be signed by each of the founding members, witnessed by an Oath Commissioner, Notary Public, Gazetted Officer, Advocate, Chartered Accountant or Magistrate 1st Class with their official stamp and complete address. The following documents must be prepared, signed and submitted for Society Registration:
-Covering letter requesting registration of the Society, signed by all founding members.
+The Memorandum of the Society and the Rules and Regulations of the Society must then be signed by each of the founding members, witnessed by an Oath Commissioner, Notary Public, Gazetted Officer, Advocate, Chartered Accountant or Magistrate 1st Class with their official stamp and complete address. The following documents must be prepared, signed and submitted for Society.
+
+#### Registration:Covering letter requesting registration of the Society, signed by all founding members.
 Memorandum of Association of the Society in duplicate along with a certified copy.
 Rules and Regulations of the Society in duplicate along with a duplicate, duly signed by the founding members.
 Affidavit sworn by the President or Secretary of the Society stating relationship between the subscribers.
