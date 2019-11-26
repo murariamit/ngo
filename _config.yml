@@ -5,5 +5,5 @@ url: https://murariamit.github.io/ngo-india
 theme: jekyll-theme-cayman
 kramdown:
   parse_block_html: true 
-  github:
+github:
   is_project_page: false
