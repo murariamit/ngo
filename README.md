@@ -11,9 +11,8 @@ Following are rules for ngo's in india.
 
 ## [Section 8 of Companies Act,2013](https://www.mca.gov.in/SearchableActs/Section8.htm).
 
-NGO as a ‘Section-8 Company’: If the NGO is intended to be in the form of an organization ‘for promoting commerce, art, science, sports, education, research, social welfare, religion, charity, protection of the environment or any such other object. The NGO can be registered as a ‘Section-8 Company’. Thereafter, it has to function as a not-for-profit organization and thus, all profits generated during the course of its functioning have to be applied for promoting the objectives of the organization i.e. no dividend can be paid to the members of the company. 
-
-As per Section 8(1a, 1b, 1c) of the new Companies Act, 2013, a Section 8 company can be established for “promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of the environment or any such other object”, provided it “intends to apply its profits, if any, or other income in promoting its objects” and “intends to prohibit the payment of any dividend to its members.”.
+#### NGO as a ‘Section-8 Company’:
+As per Section 8(1a, 1b, 1c) of the new Companies Act, 2013, a Section 8 company can be established for If the NGO is intended to be in the form of an organization ‘for promoting commerce, art, science, sports, education, research, social welfare, religion, charity, protection of the environment or any such other object. The NGO can be registered as a ‘Section-8 Company’. Thereafter, it has to function as a not-for-profit organization and thus, all profits generated during the course of its functioning have to be applied for promoting the objectives of the organization i.e. no dividend can be paid to the members of the company. 
 
 To register as a Section-8 company, the provisions regarding incorporation of a company as contained in the Companies Act, 2013 would be applicable. Thus, Section-8 companies would be governed by the same act throughout the country. In this sense, they are very similar to other limited companies. Only few differences exist such as a section-8 company does not have to add the word ‘limited’ at the end, the income generated through its working cannot be paid as a dividend to the shareholders, it enjoys tax benefits which are enjoyed by the trusts etc. The incorporation and registration of the section-8 companies are also similar to that of normal companies.
 
@@ -49,13 +48,13 @@ A Society can be formed by a minimum of seven or more persons. Besides persons f
 Society registration is managed by State Governments. Therefore, the application for registration of society must be made to the concerned authority in the State, in which the registered office of the Society will be situated.
 To register a Society, the founding members must first agree on a name for the Society and prepare the Memorandum and Rules and Regulations of the Society.
 
- ### Society Registration – Name Selection
- 
-While choosing a name for the society, it is important to remember that as per Societies Act, 1860, similar or identical name of an existing registered society is not permitted. Further the proposed name for the society must also not suggest patronage of the Government of India or any State Government or attract the provisions of Emblem and Names Act, 1950.
+ #### Society Registration – Name Selection
+ While choosing a name for the society, it is important to remember that as per Societies Act, 1860, similar or identical name of an existing registered society is not permitted. Further the proposed name for the society must also not suggest patronage of the Government of India or any State Government or attract the provisions of Emblem and Names Act, 1950.
 Memorandum of a Society
 The Memorandum of the Society and the Rules and Regulations of the Society must then be signed by each of the founding members, witnessed by an Oath Commissioner, Notary Public, Gazetted Officer, Advocate, Chartered Accountant or Magistrate 1st Class with their official stamp and complete address. The following documents must be prepared, signed and submitted for Society.
 
-#### Registration:Covering letter requesting registration of the Society, signed by all founding members.
+#### Registration: 
+Covering letter requesting registration of the Society, signed by all founding members.
 Memorandum of Association of the Society in duplicate along with a certified copy.
 Rules and Regulations of the Society in duplicate along with a duplicate, duly signed by the founding members.
 Affidavit sworn by the President or Secretary of the Society stating relationship between the subscribers.
